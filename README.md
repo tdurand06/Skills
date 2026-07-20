@@ -9,7 +9,7 @@ Two Claude Code skills for structured decision-making.
 
 **Personal (all  projects):**
 ```bash
-git clone <https://github.com/tdurand06/Skills>
+git clone https://github.com/tdurand06/Skills
 cp -r Skills/.claude/skills/* ~/.claude/skills/
 ```
 
